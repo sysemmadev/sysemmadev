@@ -2,11 +2,11 @@
 
 
 
-Soy estudiante de la carrera de **Ingeniería de Software**, actualmente me encuentro a mitad de mis estudios.  
-Estoy ampliando mis conocimientos en **desarrollo front-end y back-end**, y trab``ajo como **desarrolladora de software independiente**.  
+Soy estudiante de la carrera de **Ingeniería en Sistemas Computacionales**, actualmente me encuentro por finalizar mis estudios.  
+Estoy ampliando mis conocimientos en **desarrollo front-end y back-end y otro proyectos más**.  
 Me apasiona aprender y crear soluciones.  
 
-Contáctame en: <a href="mailto:blancablacido@gmail.com">blancablacido@gmail.com</a>  
+Contáctame en: <a href="jose.emmanuel.ramirez.00@gmail.com">jose.emmanuel.ramirez.00@gmail.com</a>  
 
 <h2>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l0cWxnMHdtc2lsYXV5bG9zMmQ5ZHgya3Jrdjc1Zng0a3NlbnRkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pGnNhScvs9Udt1WSkA/giphy.gif" width="25px">
@@ -15,19 +15,10 @@ Contáctame en: <a href="mailto:blancablacido@gmail.com">blancablacido@gmail.com
 
 
 
-**Universidad Tecnológica del Perú (UTP)** <br/>
-🎓 Ingeniería de Software<br/>
-📅 2025 – Actualmente <br/>
+**Tecnológico Nacional de México | Instituto Tecnológico de Iguala (TECNM | ITI)** <br/>
+🎓 Ingeniería en Sistemas Computacionales<br/>
+📅 2022 – Actualmente <br/>
 ⏳ En curso.  
-
-
-
-**Instituto de Investigación y Desarrollo de Administración y Tecnología (IDAT)**<br/>
-🎓 Computación e Informática <br/>
-📅 2022 - 2024 <br/>
-✅ Finalizado. <br/>
-
-
 
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
 
