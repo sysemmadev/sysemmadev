@@ -3,7 +3,7 @@
 
 
 Soy estudiante de la carrera de **Ingeniería en Sistemas Computacionales**, actualmente me encuentro por finalizar mis estudios.  
-Estoy ampliando mis conocimientos en **desarrollo front-end y back-end y otro proyectos más**.  
+Estoy ampliando mis conocimientos en **desarrollo front-end y back-end y otros proyectos más**.  
 Me apasiona aprender y crear soluciones.  
 
 Contáctame en: <a href="jose.emmanuel.ramirez.00@gmail.com">jose.emmanuel.ramirez.00@gmail.com</a>  
